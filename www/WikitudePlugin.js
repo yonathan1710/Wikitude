@@ -10,7 +10,7 @@
 		 *  You can obtain a free trial key at http =//www.wikitude.com/developer/licenses .
 		 */
 
-		this._sdkKey = "ENTER-YOUR-KEY-HERE";
+		this._sdkKey = "r9/K1AfQipYaCufK1U2fh6fKc84+x8CqHyGQSgzx3QQaCARjq4yMo4ZbvGSbPRhkbBdqO0i6ZL43g7EdzxMuxg9Y5oV2T6fQra8w3QQkWmi1ye6x5b9uvEFseRDMKLa78BNZ8SsG7BYq7WxCNWtuGG0RTovlzW5C57wtKjkCuwlTYWx0ZWRfX/Nkp/SdsFiH8HFiv/CGiJCy6CzIBNDmXdp+TI1sE5gWjZyve/McC0SlBMiVnvyAaEK6bRiNLsoqGElTOZPUlTok5S7usK9tfNiLnXHejIrWe4ADbJjEX3F+QT4nDaOt7Z2H3L65mfV1cXwLTKCbeCRXlG2aJPk/yfre4uPnt7ns5jF6NBW8Uc22CNZ4evQRLd7hu6wIHYmloVxjYxcMrANKCsJkXrdj1IXrICC2SvlhJAYBKRBYX4uiIuZeBIzO7ta+h2u3hEa4wqZ+YHAK729s4DC5bUNRf/rukYIuxnByhMOyofIqc+BaFtM9KDA12hjyLoxi61iaAv7DxXC608XzgqM8xr0KlLhReCmVBRd9z2XExDDNAVFi9csDMe9sncUifXoJTOnrm/VO5jsRXIimBFNbHlIeTtJ3uG+S3i7U/2MWGNXEqrAoTKZehra82fPk6rD57gw6bw/rj4oYW9D4l5VgyQ7MEMukd27e/h3S/s+YIYl2txQN07RE8XSJjn2s/HvPCduoZEivJMOihsrnci/rV+08plblLRpgUjs4wluyQScf8mNaW5P/JpiWTKz5cs8QY2fy";
 		/**
 		 *  The Wikitude SDK can run in different modes.
 		 *      * Geo means, that objects are placed at latitude/longitude positions.

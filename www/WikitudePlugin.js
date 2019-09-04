@@ -17,24 +17,27 @@
 		 *      * ImageTracking means that only image recognition is used in the ARchitect World.
 		 *  When your ARchitect World uses both, geo and ir, than set this value to "IrAndGeo". Otherwise, if the ARchitectWorld only needs image recognition, placing "IR" will require less features from the device and therefore, support a wider range of devices. Keep in mind that image recognition requires a dual core cpu to work satisfyingly.
 		 */
-        this.FeatureGeo             = "geo";
+        /**this.FeatureGeo             = "geo";
         this.FeatureImageTracking   = "image_tracking";
-        this.FeatureInstantTracking = "instant_tracking";
         this.FeatureObjectTracking  = "object_tracking";
+	*/
+	this.FeatureInstantTracking = "instant_tracking";
 
         /**
          *  Start-up configuration: camera position (front or back).
          */
-        this.CameraPositionUndefined = 0;
+        /**this.CameraPositionUndefined = 0;
         this.CameraPositionFront     = 1;
-        this.CameraPositionBack      = 2;
+        */
+	this.CameraPositionBack      = 2;
 
         /**
          *  Start-up configuration: camera focus range restriction (for iOS only).
          */
-        this.CameraFocusRangeNone = 0;
+        /**this.CameraFocusRangeNone = 0;
         this.CameraFocusRangeNear = 1;
         this.CameraFocusRangeFar  = 2;
+	*/
 	};
 
 
